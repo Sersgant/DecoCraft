@@ -1,6 +1,8 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.zip
+/*.jpage
+bin/
+/target
+/build.properties
+/build
+/version.properties
+/download
