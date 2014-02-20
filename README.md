@@ -20,12 +20,3 @@ Thanks
 -Luis :D
 
 
-
-
-
-
-
-
-
-Also, GoogleWhacks :D
-luisc99 antidisestablishmentarianism
