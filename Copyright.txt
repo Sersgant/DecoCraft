@@ -1,15 +1,15 @@
-This mod is made by luisc99 and is subject to many copyright policies. This mod is open source, and so can be redistributed in any form, but cannot be copied, claimed by anyone else or modified without explicit permission from me. By using this github reposotory, you agree that this code belongs to me and is not usable by anyone else, unless it is a learning material.
+This mod is made by luisc99 and is subject to many copyright policies. This mod is open source, and so can be redistributed in any form, but cannot be copied, claimed by anyone else or modified without explicit permission from me. By using this github repository, you agree that this code belongs to me and is not usable by anyone else, unless it is a learning material.
 
 ----------
 
 TERMS AND CONDITIONS
 0. USED TERMS
-MOD – modification, plugin, a piece of software that interfaces with the Minecraft client to extend, add, change or remove original capabilities.
-MOJANG – Mojang AB
-OWNER – luisc99, Original author(s) of the MOD. Under the copyright terms accepted when purchasing Minecraft (http://www.minecraft.net/copyright.jsp) the OWNER has full rights over their MOD despite use of MOJANG code.
-USER – End user of the mod, person installing the mod.
+MOD â€“ modification, plugin, a piece of software that interfaces with the Minecraft client to extend, add, change or remove original capabilities.
+MOJANG â€“ Mojang AB
+OWNER â€“ luisc99, Original author(s) of the MOD. Under the copyright terms accepted when purchasing Minecraft (http://www.minecraft.net/copyright.jsp) the OWNER has full rights over their MOD despite use of MOJANG code.
+USER â€“ End user of the mod, person installing the mod.
 1. LIABILITY
-THIS MOD IS PROVIDED ‘AS IS’ WITH NO WARRANTIES, IMPLIED OR OTHERWISE. THE OWNER OF THIS MOD TAKES NO RESPONSIBILITY FOR ANY DAMAGES INCURRED FROM THE USE OF THIS MOD. THIS MOD ALTERS FUNDAMENTAL PARTS OF THE MINECRAFT GAME, PARTS OF MINECRAFT MAY NOT WORK WITH THIS MOD INSTALLED. ALL DAMAGES CAUSED FROM THE USE OR MISUSE OF THIS MOD FALL ON THE USER.
+THIS MOD IS PROVIDED â€˜AS ISâ€™ WITH NO WARRANTIES, IMPLIED OR OTHERWISE. THE OWNER OF THIS MOD TAKES NO RESPONSIBILITY FOR ANY DAMAGES INCURRED FROM THE USE OF THIS MOD. THIS MOD ALTERS FUNDAMENTAL PARTS OF THE MINECRAFT GAME, PARTS OF MINECRAFT MAY NOT WORK WITH THIS MOD INSTALLED. ALL DAMAGES CAUSED FROM THE USE OR MISUSE OF THIS MOD FALL ON THE USER.
 
 2. USE
 Use of this MOD to be installed, manually or automatically, is given to the USER without restriction.
